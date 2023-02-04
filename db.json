@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "sdfsdf",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+    },
+    {
+      "userId": 2,
+      "id": 2,
+      "title": "sdfsdf",
+      "body": "sag"
+    }
+  ]
+}
